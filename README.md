@@ -16,3 +16,11 @@
         // on rejection
     })
 </pre>
+
+##PromiseLib function
+
+###Generate new object of Promise
+
+<pre>
+    var promise = promiseLib.getNewPromise(value);
+</pre>
