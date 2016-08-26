@@ -22,5 +22,6 @@
 ###Generate new object of Promise
 
 <pre>
+    const promiseLib=require('./promiseLib.js');
     var promise = promiseLib.getNewPromise(value);
 </pre>
